@@ -350,6 +350,37 @@ install.packages(c("igraph", "igraphdata", "networkdata", "blockmodels",
 ## covglasso: Gaussian graphical models with the lasso penalty
 
 
+## NLP ========================================================================
+
+install.packages(c("tm", "quanteda", "tidytext", "wordcloud", "topicmodels",
+                   "SentimentAnalysis", "text2vec", "syuzhet", "openNLP",
+                   "openNLPdata", "NLP", "RWeka", "tau", "koRpus", "stringr",
+                   "tokenizers", "textmineR", "rvest", "hunspell", "lexicon"), dependencies = TRUE)
+
+
+## tm: Text mining tools for managing, processing, and analyzing text data
+## quanteda: Quantitative text analysis methods and utilities
+## tidytext: Text mining using tidy data principles
+## wordcloud: Creating word cloud visualizations
+## topicmodels: Fitting and analyzing topic models for text data
+## SentimentAnalysis: Analyzing sentiment in text data
+## text2vec: Efficient text vectorization and topic modeling
+## syuzhet: Sentiment and emotion analysis using narrative arcs
+## openNLP: Natural language processing with the Apache OpenNLP tools
+## openNLPdata: Model files required for the 'openNLP' library
+## NLP: Basic classes and methods for natural language processing
+## RWeka: R interface to the Weka machine learning toolkit, including text classification algorithms
+## tau: Text analysis utilities
+## koRpus: Analyzing and processing text data, including readability measures
+## stringr: Simple and consistent manipulation of strings
+## tokenizers: Various text tokenization methods
+## textmineR: Text mining and topic modeling
+## rvest: Web scraping, including text extraction from HTML
+## hunspell: Spell checking and stemming based on the Hunspell library
+## lexicon: Collection of lexicons and dictionaries for text analysis
+
+
+
 
 
 
