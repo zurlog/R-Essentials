@@ -18,6 +18,7 @@ This repository contains a list of R packages that are useful for various domain
 ### Installing
 
 1. Clone this repository to your local machine:
+<br>
 `git clone https://github.com/zurlog/R-Essentials.git`
 
 2. Open the R script files in your favorite R editor or IDE (such as RStudio).
@@ -26,6 +27,7 @@ This repository contains a list of R packages that are useful for various domain
 
 1. To install the packages listed in a particular R script file, open the file in your R editor or IDE.
 2. Run the `install.packages()` command(s) to install the listed packages and their dependencies:
+<br>
 `install.packages(c("tm", "quanteda", "tidytext", "wordcloud", ...), dependencies = TRUE)`
 
 
