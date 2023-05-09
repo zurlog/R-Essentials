@@ -3,12 +3,10 @@
 A curated list of R packages organized by domain and application to help data scientists and statisticians discover and use essential tools.
 
 ## Description
-***
 
 This repository contains a list of R packages that are useful for various domains and applications within data science and statistics. The packages are organized into categories such as network analysis, natural language processing, machine learning, and more. The purpose of this repository is to make it easier for users to find relevant packages for their projects and to foster collaboration and knowledge sharing within the R community.
 
 ## Getting Started
-***
 
 ### Dependencies
 
@@ -34,12 +32,10 @@ This repository contains a list of R packages that are useful for various domain
 
 
 ## Help
-***
 
 For help with specific R packages, consult the package's documentation or visit the package's official website or GitHub repository.
 
 ## Authors
-***
 
 Contributor name and contact info
 
@@ -47,13 +43,11 @@ Giovanni Zurlo
 [@zurlog](https://github.com/zurlog)
 
 ## Version History
-***
 
 * 0.1
  * Initial Release
 
 ## License
-***
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
